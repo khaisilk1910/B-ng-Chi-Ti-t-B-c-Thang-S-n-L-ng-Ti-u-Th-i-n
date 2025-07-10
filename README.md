@@ -34,3 +34,6 @@ entity: sensor.tongou_tong_energy_monthly**
 
 ![image](https://github.com/user-attachments/assets/0e465fdc-e706-4e80-92b8-e918a8955024)
 
+9 - Để xem biểu giá EVN bạn nhấn hình quả cầu ở cột Bậc
+
+![image](https://github.com/user-attachments/assets/624d2f71-88c6-49d3-b26c-24edcb56498b)

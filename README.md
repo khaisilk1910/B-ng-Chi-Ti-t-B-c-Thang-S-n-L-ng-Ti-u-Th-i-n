@@ -21,3 +21,7 @@ entity: sensor.tongou_tong_energy_monthly**
 
 7 - Nếu Đơn giá các bậc của bạn thay đổi có thể thay trong cột đơn giá
 ![image](https://github.com/user-attachments/assets/5a82c070-d932-4049-b144-5aa02a5ddf97)
+
+8 - Nếu muốn reset lại giá của evn bạn nhấn nút như ảnh bên dưới
+![image](https://github.com/user-attachments/assets/0e465fdc-e706-4e80-92b8-e918a8955024)
+

@@ -66,12 +66,12 @@ class CustomElectricBillCard extends HTMLElement {
           </tr>
           <tr>
             <td colspan="2" style="padding-right: 30px; text-align:right; border-bottom: 1px solid rgba(204, 204, 204, 0.4);"><b>Tổng tiền:</b></td>
-            <td style="text-align:right; color: orange; border-bottom: 1px solid rgba(204, 204, 204, 0.4);"><strong>${Math.round(tong).toLocaleString()}</strong></td>
+            <td style="text-align:right; border-bottom: 1px solid rgba(204, 204, 204, 0.4);"><strong>${Math.round(tong).toLocaleString()}</strong></td>
             <td style="text-align:center; border-bottom: 1px solid rgba(204, 204, 204, 0.4);"><strong>đ</strong></td>
           </tr>
           <tr>
             <td colspan="2" style="padding-right: 30px; text-align:right; border-bottom: 1px solid rgba(204, 204, 204, 0.4);"><b>VAT (8%):</b></td>
-            <td style="text-align:right; color: orange; border-bottom: 1px solid rgba(204, 204, 204, 0.4);"><strong>${Math.round(thue).toLocaleString()}</strong></td>
+            <td style="text-align:right; border-bottom: 1px solid rgba(204, 204, 204, 0.4);"><strong>${Math.round(thue).toLocaleString()}</strong></td>
             <td style="text-align:center; border-bottom: 1px solid rgba(204, 204, 204, 0.4);"><strong>đ</strong></td>
           </tr>
           <tr>

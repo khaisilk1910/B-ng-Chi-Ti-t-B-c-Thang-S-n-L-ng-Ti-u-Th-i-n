@@ -15,8 +15,10 @@
 ![image](https://github.com/user-attachments/assets/41688c2b-1859-4391-9a3e-9db362d0af8e)
 
 6 -  Quay ra Dashboard và thêm thẻ mới với nội dung bên dưới và thay entity bằng entity của bạn:
+
 **type: custom:custom-electric-bill-card-new
 entity: sensor.tongou_tong_energy_monthly**
+
 ![image](https://github.com/user-attachments/assets/c49a22b9-ba28-4786-942a-17a3fd92ac98)
 
 7 - Nếu Đơn giá các bậc của bạn thay đổi có thể thay trong cột đơn giá
